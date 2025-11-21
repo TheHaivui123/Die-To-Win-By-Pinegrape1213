@@ -8,21 +8,18 @@ What seems like failure becomes the key to unlocking new paths and overcoming ob
 
 ---
 
-## ⭐ **Features in v1.0.0**
+## ⭐ **Features in v1.0.1**
 
-* **10 handcrafted levels** with increasing difficulty and unique mechanics.
-* **Smooth and responsive movement** with custom physics.
-* **Death-based puzzle elements** that turn failure into progress.
-* **Clean UI** including a main menu, settings menu, and level selection.
-* **Audio effects** for immersion (jump, death, transitions, etc).
-* **Progress saving**, allowing players to return where they left off.
-* **Lightweight performance** optimized for low-end systems.
+* **Add Click To Jump** Click To Jump.
+* **Contruct** has changed.
+* **Add File Get Missing File With Html** open file to get missing file.
 
 ---
 
 ## 🎨 **Design Philosophy**
 
 The game embraces a simple but deliberate art style, focusing on clarity and gameplay feel over heavy visuals. Every level is built around experimentation, timing, and clever mechanics—often requiring players to rethink what “winning” means.
+This game has inspired by **Die To Win** in *Geometry Dash**
 
 ---
 
@@ -38,4 +35,4 @@ The game embraces a simple but deliberate art style, focusing on clarity and gam
 Thanks for checking out **Die To Win**!
 If you enjoy the game, feel free to ⭐ the repository and share your feedback or suggestions.
 
-If you need missing file to run game, you must go the link: https://gofile.io/d/ERVUap
+If you need missing file to run game, you must go the link: https://gofile.io/d/JZuNqe
