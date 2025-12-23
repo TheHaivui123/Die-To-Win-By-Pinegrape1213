@@ -35,4 +35,4 @@ This game has inspired by **Die To Win** in *Geometry Dash**
 Thanks for checking out **Die To Win**!
 If you enjoy the game, feel free to ⭐ the repository and share your feedback or suggestions.
 
-If you need missing file to run game, you must go the link: https://gofile.io/d/JZuNqe
+If you need missing file to run game, you must go the link: https://gofile.io/d/WyaTyp
