@@ -8,11 +8,11 @@ What seems like failure becomes the key to unlocking new paths and overcoming ob
 
 ---
 
-## ⭐ **Features in v1.0.1**
+## ⭐ **Features in v1.0.2**
 
-* **Add Click To Jump** Click To Jump.
-* **Contruct** has changed.
-* **Add File Get Missing File With Html** open file to get missing file.
+* **Change UI of Main Menu and Settings**.
+* **Change Sound Settings To Three Type Of Sound**: Background, Jump and Death.
+* **Using Pak Insteand Of in The Folder**.
 
 ---
 
